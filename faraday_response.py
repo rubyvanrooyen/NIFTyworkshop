@@ -2,7 +2,7 @@
 # Copyright(C) 2020 Max-Planck-Society
 
 from time import time
-import nifty6 as ift
+import nifty7 as ift
 import numpy as np
 
 
